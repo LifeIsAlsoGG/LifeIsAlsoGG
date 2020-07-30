@@ -1,4 +1,4 @@
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LifeAlsoIsGG)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LifeAlsoIsGG&show_icons=true&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **LifeAlsoIsGG/LifeAlsoIsGG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
